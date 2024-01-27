@@ -1,3 +1,3 @@
-# IsmaelTech made about-blank-cloaking
+# IsmaelTech made g-files
 
-**This will about:blank everthiing that have a link**
+**This will be a part of g-files mostly swf*
